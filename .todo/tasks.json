@@ -1,0 +1,23 @@
+[
+  {
+    "id": "TASK_1",
+    "priority": "LOW",
+    "tags": [],
+    "description": "то се",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 23
+      },
+      "time": {
+        "hour": 4,
+        "minute": 53,
+        "second": 30,
+        "nano": 990882800
+      }
+    },
+    "isImported": false
+  }
+]
